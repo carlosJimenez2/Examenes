@@ -1,0 +1,26 @@
+Prueba 1
+
+Introduce el primer numero
+15
+Introduce el segundo numero
+21
+La suma es = 36
+La divicion es = 0.714285714285714
+
+Prueba 2.
+
+Introduce el primer numero
+13
+Introduce el segundo numero
+9
+La suma es = 22
+La divicion es = 1.44444444444444
+
+Prueba 3.
+
+Introduce el primer numero
+3.68
+Introduce el segundo numero
+11.8
+La suma es = 15.48
+La divicion es = 0.311864406779661
