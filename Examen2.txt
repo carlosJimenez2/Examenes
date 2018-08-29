@@ -1,0 +1,16 @@
+Prueba 1. 
+El area del circulo es = 12.5664
+El area del circulo es: 12.5664
+El area del triangulo es = 7.5
+El area del triangulo es: 7.5
+El area del cuadrado es = 25
+El area del cuadrado es: 25
+
+Prueba 2.
+El area del circulo es = 12.5664
+El area del circulo es: 78.54
+El area del triangulo es = 7.5
+El area del triangulo es: 21
+El area del cuadrado es = 25
+El area del cuadrado es: 64
+
